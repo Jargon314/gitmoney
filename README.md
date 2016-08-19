@@ -27,34 +27,6 @@ are welcome to join us.
 enables you to work on whatever you want, regardless of who you are, where you
 live, or what you believe and get paid in bitcoin.
 
-## How it works:
-
-### git opportunities
-
-[Browse current bitcoin-payable Issues on GitHub](https://github.com/gitmoney/gitmoney/issues?q=is%3Aissue+is%3Aopen+label%3A%22git+money%22).
-All Issues with a payout will contain the green label **git money** along with a
-"**Current Payout:**" when viewed. The current payout for resolving in the issue
-is denoted in BTC (Bitcoin) and US Dollars. If you have a question about the
-Issue, feel free to comment on it and ask! [New to
-git?](https://guides.github.com/activities/hello-world/)
-
-### git work
-
-Once you've found an opportunity, you're halfway home (or wherever it is you're
-going!). Go ahead and get to work! All you need to do is clone the repo, create
-a branch, commit your changes and submit a pull request. In your pull request
-message, [make sure to note that it resolves the
-issue](https://github.com/blog/1506-closing-issues-via-pull-requests)  and also include your
-bitcoin address.
-
-### git money
-
-Once your pull request is merged, you instantly get paid. However you choose to
-git money is up to you. Some people look for small issues that add up to larger
-sums. Others go straight for the big jobs. Maybe you're middle of the road,
-picking and choosing to make extra money on the side. It's completely up to you
-how you want to **git money**.
-
 ### Questions? Comments?
 
 Please join [slack.21.co](https://slack.21.co/) or open an issue.
